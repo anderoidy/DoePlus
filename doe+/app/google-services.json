@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209085153003",
+    "firebase_url": "https://barganhabr.firebaseio.com",
+    "project_id": "barganhabr",
+    "storage_bucket": "barganhabr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209085153003:android:c7146155c901c338",
+        "android_client_info": {
+          "package_name": "com.example.barganhabr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209085153003-akn798jf5nbbnt2haq2fa93rb9e4k3sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barganhabr",
+            "certificate_hash": "3e7a8db539ecb5fcc687caf2ee9408b354f47f97"
+          }
+        },
+        {
+          "client_id": "209085153003-ih16ojs4a7uctqbj1jsgfuppr1srnaio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF5rN3wm0KQL6mQHd0aRY70l4IWx4zML8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209085153003-ih16ojs4a7uctqbj1jsgfuppr1srnaio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

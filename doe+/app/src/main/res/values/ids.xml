@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textTituloDetalhe" type="id" />
+    <item name="textDescricaoDetalhe" type="id" />
+    <item name="textEstadoDetalhe" type="id" />
+    <item name="textPrecoDetalhe" type="id" />
+</resources>
