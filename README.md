@@ -4,7 +4,8 @@ DoePlus é um aplicativo Android para gerenciamento de doações, desenvolvido c
 
 ## Telas do Aplicativo
 
-![Tela do DoePlus](imagens/doeplusUX.jpeg)
+![Descrição da Imagem](doe+/imagens/nome-da-imagem.png)
+
 
 
 
