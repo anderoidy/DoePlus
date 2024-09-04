@@ -2,9 +2,10 @@
 
 DoePlus é um aplicativo Android para gerenciamento de doações, desenvolvido com Java e integrado com Firebase. Este README fornece uma visão geral do projeto, instruções para configuração, uso e contribuição.
 
-## Tela do Aplicativo
+## Telas do Aplicativo
 
-![Tela do DoePlus](images/doeplusUX.jpeg)
+![Tela do DoePlus](imagens/doeplusUX.jpeg)
+
 
 
 
