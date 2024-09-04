@@ -121,6 +121,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo 
 
 Para perguntas ou sugestões sobre o DoePlus, entre em contato:
 
-- **Anderson Pereira** - 
+- **Anderson Pereira** 
 - **ander.sistemasweb@gmail.com** 
 - **https://www.linkedin.com/in/andersistemasweb/** 
